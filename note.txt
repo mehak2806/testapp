@@ -1,8 +1,4 @@
 this is a new file
 my new file
 
-add master branch
-
-i want to check the mehak branch work
-i want to see merge
 
